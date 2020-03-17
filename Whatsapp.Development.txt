@@ -1,0 +1,11 @@
+Whatsapp development code 
+
+1.Images and Audio , Videos .
+
+2.Readme file.
+
+3.Last seen code .
+
+4.Status code.
+
+5.Image upload / Download code . 
